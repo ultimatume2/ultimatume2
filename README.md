@@ -12,7 +12,8 @@
    - Learn CSS: Flexbox and Grid Course,
    - Introduction to UI and UX Design Course,
    - Intro to Generative AI Course,
-   - Intro to Cloud Computing Course.
+   - Intro to Cloud Computing Course,
+   - Learn Git & GitHub Course.
   
 =============================================
 
