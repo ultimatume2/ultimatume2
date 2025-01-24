@@ -19,7 +19,7 @@
 
 - 👋 Hi, I’m @ultimatume2
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning HTML, CSS, JS, Python
 - 💞️ I’m looking to collaborate on new ideas
 - 📫 How to reach me private msg
 
